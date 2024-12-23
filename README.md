@@ -2,6 +2,8 @@
 
 This repository demonstrates the creation of a robust CI/CD pipeline integrating **Jenkins**, **GitHub**, **Docker**, and **Kubernetes** to automate build, test, and deployment processes. Follow the steps below to replicate the setup on your system.
 
+![image](https://github.com/user-attachments/assets/8ac69a0b-e700-4a27-a5c9-604f8f492d2b)
+
 ---
 
 ## Prerequisites
