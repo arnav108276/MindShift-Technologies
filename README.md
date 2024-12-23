@@ -108,7 +108,8 @@ pipeline {
     }
 }
 ```
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d26fb660-ac4f-4f17-b502-6af965917ac0)
+
 
 
 ### **Step 6: Kubernetes Configuration**
