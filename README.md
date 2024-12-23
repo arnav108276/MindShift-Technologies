@@ -155,17 +155,7 @@ spec:
 
 ---
 
-## Troubleshooting
-- **Port Binding Issues**: Ensure no other service is using the specified port.
-- **Docker Push Authentication**: Add your Docker Hub credentials in Jenkins.
-- **Kubernetes Errors**: Verify that `kubectl` is configured to use Minikube.
 
----
-
-## Future Enhancements
-- Add unit tests and integrate them into the pipeline.
-- Implement a rollback strategy in case of deployment failures.
-- Set up monitoring tools like Prometheus and Grafana for better observability.
 
 ---
 
