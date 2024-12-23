@@ -108,6 +108,8 @@ pipeline {
     }
 }
 ```
+![Uploading image.png…]()
+
 
 ### **Step 6: Kubernetes Configuration**
 1. Create a `deployment.yaml` file for Kubernetes deployment:
